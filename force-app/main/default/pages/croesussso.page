@@ -1,0 +1,6 @@
+<!--
+ - Created by benoitde on 2023-09-29.
+ -->
+
+<apex:page id="croesussso" controller="CroesusSSOController" action="{!urlRedirection}">
+</apex:page>
